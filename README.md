@@ -1,13 +1,11 @@
 # ASC_Proiect_0x00
 
 Proiect realizat de:
-Tava Andrei-Daniel
-Duca Cosmina-Elena
-Nedelcu Alexandru
+Tava Andrei-Daniel \n
+Duca Cosmina-Elena \n
+Nedelcu Alexandru \n
 
 
-Utilizare:
-
-```python encrypt.py <cheie> <fisier_text_input> <fisier_output>```
-
+Utilizare: \n
+```python encrypt.py <cheie> <fisier_text_input> <fisier_output>```\n
 ```python decrypt.py <cheie> <fisier_input> <fisier_text_output>```
